@@ -10,6 +10,7 @@ Features
 - User Authentication & Admin Dashboard
 - Fully Responsive (Mobile, Tablet & Desktop)
 - Future Ready – AR/VR Integration & Blockchain Roadmap
+  
 Tech Stack
 Frontend: React, Tailwind CSS, Vite
 Backend: Flask, REST API
@@ -17,6 +18,7 @@ Database: SQLite (MVP), PostgreSQL (Production)
 AI/ML Engine: Python (Recommendation System)
 Authentication: JWT (JSON Web Tokens)
 Dev Tools: Figma, Git, Vercel
+
 Project Structure
 estate360/
 ├── app/
@@ -29,6 +31,7 @@ estate360/
 ├── styles/
 ├── utils/
 └── README.md
+
 Results Snapshot
 AI Match Accuracy: 87%
 Avg. Time to Selection: Reduced from 3 days to 1.2 days
